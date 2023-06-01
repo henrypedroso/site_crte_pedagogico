@@ -1,4 +1,85 @@
 header {
     background-color: #193569;
-    color: darkgreen;
+    color: rgb(236, 241, 238);
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.cabecalho-imagem {
+    width: 20%;
+}
+
+.pensamento-imagem {
+    width: 25%;
+}
+
+.escola {
+    background-image: linear-gradient(#193569, #0fb82b );
+    color: rgb(236, 241, 238);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.escola-div-conteudo {
+    width: 35%;
+}
+
+.escola-titulo {
+    padding: 24px 0;
+}
+
+.colaborador-henry{
+    width: 120px;
+}
+
+.colaborador-icone {
+    width: 24px;
+}
+
+.colaboradores-div {
+    text-align: center;
+}
+
+.colaboradores-titulo {
+    text-align: center;
+    padding: 50px 0;
+}
+
+.colaboradores-todos {
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%
+}
+
+.colaborador-marcia{
+    width: 120px;
+}
+
+.colaborador-reinaldo {
+    width: 120px;
+}
+
+.colaborador-leandro {
+    width: 120px; ;
+}
+
+.colaborador-rubia {
+    width: 120px;
+}
+
+.colaborador-jacson {
+    width: 120px;
+}
+
+.rodape {
+    background-color: #0fb82b;
+    text-align: center;
+}
+
+.rodape-imagem {
+    height: 60px;
 }
